@@ -2,7 +2,7 @@
 This is a repository of all the translation files used in LaraPass v2 (for Personal, Teams &amp; SaaS Versions). 
 
 # What is LaraPass v2?
-LaraPass v2 is a self-hosted password manager build with privacy, security and data ownership in mind. LaraPass v2 comes in 3 versions - Personal, Teams & SaaS versions.
+LaraPass v2 is a self-hosted password manager build with privacy, security and data ownership in mind. LaraPass v2 comes in 3 versions - Personal, Teams & SaaS versions. You can find out more details about LaraPass v2 at [`larapass.net`](https://larapass.net)
 
 # How to contribute
 Before contributing, ensure a request for the same langauge/transalations has not been placed by anyone else before.
