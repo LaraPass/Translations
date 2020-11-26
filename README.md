@@ -17,6 +17,14 @@ Follow the steps below for contributing to this repo:
 # Languages Availables in LaraPass v2
 The table below shows all the languages currently available in the production version of LaraPass v2. 
 | Language  | Status | Translated Files (Main) | Pending Files (Main) | Vendor - AuthLogs \| Backups \| Cookie |
-| ------------- | ------------- | ------------- | ------------- | :---: |
+| ------------- | ------------- | :---: | :---: | :---: |
 | English (EN)  | :heavy_check_mark: Available  | 15  | 0  | :heavy_check_mark: \| :heavy_check_mark: \| :heavy_check_mark:  |
 | Spanish (ES)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
+| French (FR)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
+| German (DE)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
+| Danish (DA)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
+| Czech (CS)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
+| Dutch (NL)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
+| Polish (PL)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
+| Russian (RU)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
+| Turkish (TR)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
