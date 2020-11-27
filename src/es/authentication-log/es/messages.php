@@ -11,6 +11,8 @@ return [
     | various messages that we need to display to the user. You are free to
     | modify these language lines according to your application's requirements.
     |
+    | Update: This file has been translated.
+    |
     */
 
     'subject' => '[Alerta] Iniciar sesión desde un nuevo dispositivo',

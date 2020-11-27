@@ -11,6 +11,8 @@ return [
     | that are given by the password broker for a password update attempt
     | has failed, such as for an invalid token or invalid new password.
     |
+    | Update: This file has been translated.
+    |
     */
 
     'reset'     => '¡Su contraseña ha sido restablecida!',

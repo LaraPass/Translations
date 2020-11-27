@@ -11,6 +11,8 @@ return [
     | the validator class. Some of these rules have multiple versions such
     | as the size rules. Feel free to tweak each of these messages here.
     |
+    | Update: This file has been translated.
+    |
     */
 
     'accepted'             => ':attribute debe ser aceptado.',

@@ -11,9 +11,11 @@ return [
     | the simple pagination links. You are free to change them to anything
     | you want to customize your views to better match your application.
     |
+    | Update: This file has been translated.
+    |
     */
 
     'previous' => '&laquo; Anterior',
     'next'     => 'Siguiente &raquo;',
-    
+
 ];
