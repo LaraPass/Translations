@@ -21,7 +21,7 @@ The table below shows all the languages currently available in the production ve
 | Language  | Status | Translated Files (Main) | Pending Files (Main) | Vendor - AuthLogs \| Backups \| Cookie |
 | ------------- | ------------- | :---: | :---: | :---: |
 | English (EN)  | :heavy_check_mark: Available  | 15  | 0  | :heavy_check_mark: \| :heavy_check_mark: \| :heavy_check_mark:  |
-| Spanish (ES)  | :x: Pending  | 0 | 15  | :heavy_check_mark: \| :heavy_check_mark: \| :heavy_check_mark:  |
+| Spanish (ES)  | :x: Pending  | 3 | 12  | :heavy_check_mark: \| :heavy_check_mark: \| :heavy_check_mark:  |
 | French (FR)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
 | German (DE)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
 | Danish (DA)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
