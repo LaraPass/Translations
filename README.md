@@ -5,10 +5,10 @@ This is a repository of all the translation files used in LaraPass v2 (for Perso
 LaraPass v2 is a self-hosted password manager build with privacy, security and data ownership in mind. LaraPass v2 comes in 3 versions - Personal, Teams & SaaS versions. You can find out more details about LaraPass v2 at [`larapass.net`](https://larapass.net)
 
 # How to contribute
-Before contributing, ensure a request for the same langauge/transalations has not been placed by anyone else before.
+Before contributing, ensure a request for the same langauge/transalations has not been placed by anyone else before. All contributions made will be duly credit in here as well as on the our official website.
 
 Follow the steps below for contributing to this repo:
-- **Step 1** : Create an issue with the title - '**Creating Translations for {langague}({locale}) Language**' so we can keep track of any undertakings. Ex: `Creating Translations for Spanish (ES) Langauge`.
+- **Step 1** : Create an issue with the title - '**Creating Translations for {langague}({locale}) Language**' so we can keep track of any undertakings. Ex: `Creating Translations for Spanish (ES) Langauge` or `Updating Translations for Spanish (ES) Langauge` (if your language doesn't exists in the list).
 - **Step 2** : Fork this repo.
 - **Step 3** : Create a new directory inside the `src` directory with in the shorthand of your locale (Ex: English - en, Spanish - es, Arabic - ar, etc).
 - **Step 4** : Copy all the files from the `src/en` directory into your newly created one.
@@ -22,7 +22,7 @@ The table below shows all the languages currently available in the production ve
 | ------------- | ------------- | :---: | :---: | :---: |
 | English (EN)  | :heavy_check_mark: Available  | 15  | 0  | :heavy_check_mark: \| :heavy_check_mark: \| :heavy_check_mark:  |
 | Spanish (ES)  | :x: Pending  | 3 | 12  | :heavy_check_mark: \| :heavy_check_mark: \| :heavy_check_mark:  |
-| French (FR)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
+| French (FR)  | :x: Pending  | 3 | 12  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
 | German (DE)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
 | Danish (DA)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
 | Czech (CS)  | :x: Pending  | 0 | 15  | :x: \| :heavy_check_mark: \| :heavy_check_mark:  |
