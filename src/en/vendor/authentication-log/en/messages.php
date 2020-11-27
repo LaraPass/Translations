@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'subject' => '[Alert] Login from a new device',
-    'content' => 'Your :app account logged in from a new device.',
+    'subject' => '[Alert] Login from a new device detected',
+    'content' => 'Your :app account was logged in from a new device.',
 
 ];
