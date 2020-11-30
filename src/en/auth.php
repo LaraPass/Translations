@@ -36,7 +36,7 @@ return [
         'password_hint' => 'Password Hint (Optional)',
         'password_hint_head' => 'Add a Password Hint!',
         'password_hint_body' => 'Something to remind you of the password sequence. Do not make it too obvious.',
-        'agree' => 'I agree to the <a href=":terms" target="_blank">Terms</a> and <a href=":privacy" target="_blank">Privacy Policy</a>. I want to receive promotional emails, unless <a href=":opt" target="_blank">I opt out</a>.',
+        'agree' => 'I agree to the <a href=":terms" target="_blank">Terms of Service</a> and <a href=":privacy" target="_blank">Privacy Policy</a> of :app.',
         'registered' => 'Already have an account? <a href=":login">Login In Here</a>'
     ],
     'forgot' => [
