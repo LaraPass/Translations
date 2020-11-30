@@ -76,6 +76,7 @@ return [
             'announcement_deleted' => 'Announcement Deleted Successfully.',
         ],
         'modules' => [
+            'configuration_required' => 'Module cannot be enabled until configured.',
             'recaptcha' => [
                 'validation' => [
                     'enabled_required' => 'Google reCaptcha option is required.',
