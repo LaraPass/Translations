@@ -184,7 +184,8 @@ return [
         'tfa' => [
             'title' => '2-Step Authentication Settings',
             'show_key' => 'Show Key to User',
-            'show_key_sub' => 'Show 2FA provider key to the user.'
+            'show_key_sub' => 'Show 2FA provider key to the user.',
+            'show_alert' => 'Show 2FA Alert'
         ],
         'social' => [
             'title' => 'Social Login Settings',
