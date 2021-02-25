@@ -56,5 +56,6 @@ return [
     'time' => 'Time',
     'ip' => 'IP Address',
     'browser' => 'Browser',
-    'platform' => 'Platform'
+    'platform' => 'Platform',
+    'whats_this' => 'Whats this?',
 ];

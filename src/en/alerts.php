@@ -148,7 +148,8 @@ return [
             'confirmation_required' => 'Confirmation is required.',
             'not_yet_banned' => 'User account has not been banned yet.',
             'unbanned' => 'User account unbanned.',
-            'added_success' => 'User Added Successfully. Verification email sent to the email address used.'
+            'added_success' => 'User Added Successfully. Verification email sent to the email address used.',
+            'deleted_success' => 'User account deleted successfully'
         ]
     ],
     'profile' => [
@@ -275,8 +276,10 @@ return [
             'login_password_max' => 'Login Password cannot exceed 155 character limit',
             'additional_info_max' => 'Additional Info cannot exceed 255 character limit',
         ],
-        'custom_field_added' => 'New Custom Field Added',
-        'custom_field_deleted' => 'Field Deleted Successfully',
+        'custom_field_added' => 'New custom field was added successfully.',
+        'custom_field_deleted' => 'Custom field was deleted successfully.',
+        'note_added' => 'Your Private Note was added successfully.',
+        'note_deleted' => 'Your Private Note was deleted successfully.'
     ],
     'installation' => [
         'start_from_step1' => 'Start Installation Process from Step # 1.',

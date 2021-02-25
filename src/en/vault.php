@@ -49,6 +49,7 @@ return [
     'add_site_to_select_folder' => 'Add <b><u>:name</u></b> to a Folder',
     'select_a_folder' => 'Select a Folder',
     'add_to_folder' => 'Add to Folder',
+    'add_to_folder_none' => 'This vault does not contain any folders. Create a new folder to get started.',
     'copy' => 'Copy',
     'general_settings' => 'General Settings',
     'general_settings_head' => 'General Settings for <b><u>:vault</u></b> Vault',
