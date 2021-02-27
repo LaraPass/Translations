@@ -13,14 +13,14 @@ return [
     |
     */
 
-    'subject' => '[Alerta] Iniciar sesión desde un nuevo dispositivo',
-    'hello' => 'Hola',
-    'regards' => 'Saludos',
-    'content' => 'Su cuenta de :app inició sesión desde un nuevo dispositivo.',
-    'account' => 'Email',
-    'time' => 'Hora',
+    'subject'    => '[Alerta] Iniciar sesión desde un nuevo dispositivo',
+    'hello'      => 'Hola',
+    'regards'    => 'Saludos',
+    'content'    => 'Su cuenta de :app inició sesión desde un nuevo dispositivo.',
+    'account'    => 'Email',
+    'time'       => 'Hora',
     'ip_address' => 'Dirección IP',
-    'browser' => 'Navegador',
-    'platform' => 'Platform',
-    'ignore' => 'If this was you, you can ignore this alert. If you suspect any suspicious activity on your account, please change your password.'
+    'browser'    => 'Navegador',
+    'platform'   => 'Platform',
+    'ignore'     => 'If this was you, you can ignore this alert. If you suspect any suspicious activity on your account, please change your password.',
 ];
