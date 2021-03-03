@@ -11,8 +11,11 @@ return [
     'dashboard' => [
         'registered_today' => 'Registered Today',
         'total_users' => 'Total Users',
+        'total_teams' => 'Total Teams',
         'total_vaults' => 'Total Vaults',
         'total_sites' => 'Total Sites',
+        'total_folders' => 'Total Folders',
+        'total_notes' => 'Total Notes / CF',
         'add_new_announcement' => 'Add New Announcement',
         'message' => 'Message',
         'message_placeholder' => 'Type the udpate you want to announce to the users of this app.',
